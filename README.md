@@ -3,7 +3,7 @@
   <a href="https://portfolio-nileshs-projects-cf87850c.vercel.app/" target="_blank">Link</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./images/demo.png" />
+  <img alt="Demo" src="https://ibb.co/PWqHrVK" />
 </div>
 
 <br/>
